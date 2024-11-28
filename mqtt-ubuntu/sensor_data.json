@@ -1,0 +1,13 @@
+{
+    "place" : "Pune",
+    "sensor_Details" : 
+    {
+        "temperature" : "DHT22",
+        "humidity"    : "DHT22"
+    },
+    "sensor_value" : {
+        "temperature" : 35,
+        "humidity" : 85
+    },
+    "firmware_version" : 2.02
+}
